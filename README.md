@@ -11,7 +11,8 @@ model_video_test为测试可视化
 
 
 Keras+opencv+openpose realizes human motion prediction based on CNN. 
-The training part uses the dataset used by colab, is the video dataset of unity. 
+Colab was used in the training section. 
+The dataset used is the video dataset of unity3D 
 Dataset links: http://www.aislab.org/index.php/en/mvar-datasets/. 
 The data_op file processes the data with openpose. 
 Image_data_prepare files make npy files for data and label. 
